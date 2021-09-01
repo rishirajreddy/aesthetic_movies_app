@@ -8,7 +8,9 @@ Using Google Authentication , a user can add/delete/list movies.
 A New Flutter Project
 
 ## Screenshots
-
+  <div>
+    <img src="https://user-images.githubusercontent.com/64702890/131732178-96cbe4d7-5b04-4e4c-84b7-b91a3deb44ab.jpg" height=600 width=300>
+  </div>
 <div>
   <img src="https://user-images.githubusercontent.com/64702890/131732173-28d65ca1-f3eb-4f58-aaba-6e7fbec115e1.jpg" height=600 width=300>
   </div>
