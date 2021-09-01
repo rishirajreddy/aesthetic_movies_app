@@ -1,6 +1,7 @@
 # flutter_application
 
-A new Flutter project.
+A simple aesthetic app to add/edit/delete/list movies that a user has watched.
+Using Google Authentication , a user can add/delete/list movies.
 
 ## Getting Started
 
